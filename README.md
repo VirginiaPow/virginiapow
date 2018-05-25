@@ -11,9 +11,9 @@ Notes to self for building this page.
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Email: virginia.pow@ualberta.ca
+## University of Alberta
+### 2018
 
 - Bulleted
 - List
