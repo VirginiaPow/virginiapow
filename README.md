@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Playground Where this is all about learning. 
 
-You can use the [editor on GitHub](https://github.com/VirginiaPow/virginiapow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rember to check back to make sure that you know where the master file is
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Final Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Notes to self for building this page.
 
 ```markdown
 Syntax highlighted code block
